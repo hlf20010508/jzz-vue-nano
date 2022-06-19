@@ -1,5 +1,9 @@
 本程序为jzz-vue精简版
 
+完整版项目https://github.com/hlf20010508/jzz-vue.git
+
+<br/>
+
 安装依赖
 ```
 npm install
