@@ -1,5 +1,7 @@
 本程序为jzz-vue精简版
 
+基于vue-cli 2.0
+
 完整版项目https://github.com/hlf20010508/jzz-vue.git
 
 <br/>
