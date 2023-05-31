@@ -25,11 +25,11 @@ npm run dev
 
 此处已更改过package.json第10行build，会自动将build的dist更新到jzz-sanic-nano文件夹中
 
-需要jzz-sanic-nano项目https://github.com/hlf20010508/jzz-sanic-nano.git
+需要jzz-sanic-nano项目https://github.com/hlf20010508/jzz-nano
 ```
 npm run build
 ```
 
 <br/>
 
-效果展示见jzz-sanic-nano
+效果展示见[jzz-nano](https://github.com/hlf20010508/jzz-nano)
